@@ -1,0 +1,16 @@
+{
+  "mdb" : {
+    "Wtf" : {
+      "downloadlink" : "Wtf",
+      "icon" : "gc",
+      "playlink" : "hi",
+      "title" : "Wtf"
+    },
+    "hhes" : {
+      "downloadlink" : "hello",
+      "icon" : "gc",
+      "playlink" : "hi",
+      "title" : "hhes"
+    }
+  }
+}
